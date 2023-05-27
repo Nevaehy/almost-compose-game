@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlmostComposeGame</string>
+    <string name="health">Health</string>
+    <string name="damage">Damage</string>
+    <string name="ability">Ability</string>
+    <string name="vampire">Vampire</string>
+    <string name="neutrals">Neutrals</string>
+    <string name="followers">Followers</string>
+    <string name="arena">Arena</string>
+    <string name="map">Map</string>
+</resources>
